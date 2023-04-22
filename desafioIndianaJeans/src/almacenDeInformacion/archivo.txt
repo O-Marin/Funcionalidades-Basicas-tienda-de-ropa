@@ -1,0 +1,8 @@
+ProductoServicio [listaProductos=[
+Nombre articulo=a
+Precio=b
+Descripcion=c
+Codigo=dtalla=e
+Marca=f
+Color=g
+]]
